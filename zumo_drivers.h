@@ -1,11 +1,3 @@
-/*
- * zumo_drivers.h
- *
- * Created: 1/16/2023 1:16:18 PM
- *  Author: Doug Summerville
- */ 
-
-
 #ifndef ZUMO_DRIVERS_H_
 #define ZUMO_DRIVERS_H_
 
